@@ -144,5 +144,11 @@
       "city": "Paris",
       "population": 1100000
     }
+  ],
+  "demo": [
+    {
+      "name": "Pujkkd",
+      "age": 34      
+    }
   ]
 }
