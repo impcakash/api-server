@@ -1,16 +1,148 @@
 {
-  "posts":[
+  "data": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "country": "India",
+      "city": "Delhi",
+      "population": 21000000
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "country": "USA",
+      "city": "New York",
+      "population": 12000000
+    },
+    {
+      "id": 3,
+      "country": "Japan",
+      "city": "Tokyo",
+      "population": 15000000
+    },
+    {
+      "id": 4,
+      "country": "UK",
+      "city": "London",
+      "population": 18000000
+    },
+    {
+      "id": 5,
+      "country": "Australia",
+      "city": "Canbara",
+      "population": 7700000
+    },
+    {
+      "id": 6,
+      "country": "India",
+      "city": "Mumbai",
+      "population": 17000000
+    },
+    {
+      "id": 7,
+      "country": "India",
+      "city": "Kolkata",
+      "population": 16000000
+    },
+    {
+      "id": 8,
+      "country": "USA",
+      "city": "Chicago",
+      "population": 11000000
+    },
+    {
+      "id": 9,
+      "country": "USA",
+      "city": "California",
+      "population": 13000000
+    },
+    {
+      "id": 10,
+      "country": "USA",
+      "city": "Los Angles",
+      "population": 7500000
+    },
+    {
+      "id": 11,
+      "country": "Japan",
+      "city": "Fukusima",
+      "population": 5000000
+    },
+    {
+      "id": 12,
+      "country": "Japan",
+      "city": "Nagasaki",
+      "population": 3500000
+    },
+    {
+      "id": 13,
+      "country": "UK",
+      "city": "Madrid",
+      "population": 7500000
+    },
+    {
+      "id": 14,
+      "country": "UK",
+      "city": "Haradi",
+      "population": 100000
+    },
+    {
+      "id": 15,
+      "country": "India",
+      "city": "Chennai",
+      "population": 10000000
+    },
+    {
+      "id": 16,
+      "country": "India",
+      "city": "Pune",
+      "population": 8500000
+    },
+    {
+      "id": 17,
+      "country": "UK",
+      "city": "Hidust",
+      "population": 100000
+    },
+    {
+      "id": 18,
+      "country": "Australia",
+      "city": "Sydney",
+      "population": 3000000
+    },
+    {
+      "id": 19,
+      "country": "Australia",
+      "city": "Oval",
+      "population": 2000000
+    },
+    {
+      "id": 20,
+      "country": "India",
+      "city": "Bengaluru",
+      "population": 12500000
+    },
+    {
+      "id": 21,
+      "country": "Japan",
+      "city": "Hirosima",
+      "population": 1500000
+    },
+    {
+      "id": 22,
+      "country": "Japan",
+      "city": "Japanese",
+      "population": 2500000
+    },
+    {
+      "id": 23,
+      "country": "UK",
+      "city": "Ogtani",
+      "population": 120000
+    },
+    {
+      "id": 24,
+      "country": "UK",
+      "city": "Paris",
+      "population": 1100000
     }
   ]
 }
