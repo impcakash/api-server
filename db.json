@@ -146,7 +146,7 @@
       "id": 3,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/10970636a.webp",
       "title": "Teentaare Kurti",
-      "price": 1900,
+      "price": 900,
       "Category": "Ethnic"
     },
     {
@@ -167,7 +167,7 @@
       "id": 6,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/10497207a.webp",
       "title": "Cotton Kurta Dupatta",
-      "price": 2000,
+      "price": 200,
       "Category": "Ethnic"
     },
     {
@@ -181,14 +181,14 @@
       "id": 8,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/10744140a.webp",
       "title": "Babyhug T-Shirt",
-      "price": 900,
+      "price": 800,
       "Category": "Tshirts"
     },
     {
       "id": 9,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/9511214a.webp",
       "title": "Flower Print Kurti",
-      "price": 1300,
+      "price": 300,
       "Category": "Ethnic"
     },
     {
@@ -202,35 +202,35 @@
       "id": 11,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/10826286a.webp",
       "title": "Babyhug Top",
-      "price": 800,
+      "price": 500,
       "Category": "Tshirts"
     },
     {
       "id": 12,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/9962778a.webp",
       "title": "Choli Lehenga Dupatta",
-      "price": 1700,
+      "price": 700,
       "Category": "Ethnic"
     },
     {
       "id": 13,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/11001383a.webp",
       "title": "Party Wear Dress",
-      "price": 700,
+      "price": 200,
       "Category": "Frocks"
     },
     {
       "id": 14,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/10744479a.webp",
       "title": "Babyhug Sleeveless Top",
-      "price": 1000,
+      "price": 400,
       "Category": "Tshirts"
     },
     {
       "id": 15,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/10686590a.webp",
       "title": "Ghagra Choli Set",
-      "price": 1400,
+      "price": 700,
       "Category": "Ethnic"
     },
     {
@@ -244,14 +244,14 @@
       "id": 17,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/10826323a.webp",
       "title": "Babyhug Sleeveless Top",
-      "price": 1200,
+      "price": 200,
       "Category": "Tshirts"
     },
     {
       "id": 18,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/10168486a.webp",
       "title": "Printed Kurti",
-      "price": 1500,
+      "price": 500,
       "Category": "Ethnic"
     }
   ],
@@ -267,7 +267,7 @@
       "id": 2,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/2895768a.webp",
       "title": "Number Puzzle",
-      "price": 1900,
+      "price": 900,
       "Category": "Puzzle"
     },
     {
@@ -288,14 +288,14 @@
       "id": 5,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/2895776a.webp",
       "title": "1 to 20 Numbers",
-      "price": 1700,
+      "price": 700,
       "Category": "Puzzle"
     },
     {
       "id": 6,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/10595063a.webp",
       "title": "Squash Racket",
-      "price": 700,
+      "price": 800,
       "Category": "Sports"
     },
     {
@@ -309,7 +309,7 @@
       "id": 8,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/2022461a.webp",
       "title": "Map Puzzle",
-      "price": 2000,
+      "price": 200,
       "Category": "Puzzle"
     },
     {
@@ -330,7 +330,7 @@
       "id": 11,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/9805970a.webp",
       "title": "Numbers Puzzle",
-      "price": 1300,
+      "price": 300,
       "Category": "Puzzle"
     },
     {
@@ -351,14 +351,14 @@
       "id": 14,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/81197a.webp",
       "title": "Animal Alphabet",
-      "price": 1400,
+      "price": 400,
       "Category": "Puzzle"
     },
     {
       "id": 15,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/9965372a.webp",
       "title": "Basketball Game PlaySet",
-      "price": 1000,
+      "price": 200,
       "Category": "Sports"
     },
     {
@@ -372,14 +372,14 @@
       "id": 17,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/8886983a.webp",
       "title": "Solar System Puzzle",
-      "price": 1500,
+      "price": 500,
       "Category": "Puzzle"
     },
     {
       "id": 18,
       "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/11155896a.webp",
       "title": "Batman Hockey Set",
-      "price": 1200,
+      "price": 600,
       "Category": "Sports"
     }
   ],
